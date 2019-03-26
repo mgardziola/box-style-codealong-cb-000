@@ -66,6 +66,7 @@ img, video, audio, iframe, table, form {
 
 .border-right {
   border-right: 1px dotted #ccc;
+  padding-right: ;
 }
 
 /*/////// LAYOUT ////////*/
