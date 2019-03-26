@@ -64,6 +64,10 @@ img, video, audio, iframe, table, form {
   clear:both;
 }
 
+.border-right {
+  border-right: 1px dotted #ccc;
+}
+
 /*/////// LAYOUT ////////*/
 
 .wrapper {
